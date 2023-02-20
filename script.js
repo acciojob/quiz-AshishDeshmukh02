@@ -26,7 +26,7 @@ const questions = [
     correct: "a",
   },
   {
-    question: "What year was JavaScript launched?",
+    question: "You answered 2/4 questions correctly",
     a: "1996",
     b: "1995",
     c: "1994",
